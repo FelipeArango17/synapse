@@ -1,0 +1,14 @@
+{
+  "name": "synapse-backend",
+  "version": "1.0.0",
+  "description": "Synapse AI assistant backend",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["ai", "assistant", "rag", "nodejs"],
+  "author": "felezzz",
+  "license": "ISC",
+  "type": "module"
+}
